@@ -1,2 +1,7 @@
-Instructions:
-[Intel Wifi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh/issues/330#issuecomment-637815509)
+1. Just drag & drop HeliPort to Application and launch it. 
+2. Then hold ⌥ and click HeliPort icon in the status bar, select "Launch at login". 
+3. And there you go!
+
+
+
+Also stay tuned with [Black80211](https://github.com/usr-sse2/Black80211-Catalina) for WiFi instead of Ethernet in system preference panel.
